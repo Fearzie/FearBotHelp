@@ -5092,11 +5092,6 @@ body {
 .cid-qZ2WOPNITt .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qZ2I0LUpB5 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-qZ2YGY7ChW {
   background: linear-gradient(45deg, #fbac7f, #e5658a);
 }
@@ -5107,4 +5102,9 @@ body {
 .cid-qZ2YGY7ChW .mbr-section-title,
 .cid-qZ2YGY7ChW .mbr-section-btn {
   text-align: center;
+}
+.cid-qZ2I0LUpB5 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
